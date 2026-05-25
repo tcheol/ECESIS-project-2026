@@ -42,8 +42,7 @@
 - Final pick of N=1500 specialized buses after AI presented the empirical sweep at 500/700/1500.
 - Exclusion of `HELIOSCR_345KV_1` (manually confirmed as a misclassified solar/generation bus).
 - Decision to use `regression_l1` with load-proportional weighting (Task 2) so the training objective aligns with WMAPE.
-- Decision to apply Fix E (medium-horizon lags for Task 2 specialized) at 1500 buses rather than only 700 after seeing the empirical impact.
-- Decision to ship at the current architecture's WMAPE ceiling rather than pursue further marginal gains.
+- Decision to apply medium-horizon lags for Task 2 specialized at 1500 buses rather than only 700 after seeing the empirical impact.
 - Final pick of which submission file to ship.
 
 ## Validation
@@ -60,9 +59,7 @@
 
 ## Chat history / raw logs
 
-- Claude Code transcripts: `C:\Users\andre\.claude\projects\C--Users-andre-Desktop-Ecesis-Investments-Assigment-2\` (jsonl files).
-- <Add share links or exports for any web-based chats you used: Claude.ai conversation share links, ChatGPT data export, etc.>
-- <If your AI tool produced no exportable transcript (e.g., Copilot inline completions), say so explicitly.>
+- Claude Code transcripts: I have the file but I wasn't sure how to upload it if you need the file, I will send the file.
 
 ## Honest scope statement
 
