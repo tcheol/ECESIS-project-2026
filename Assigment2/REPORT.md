@@ -385,7 +385,7 @@ it.
    LightGBM where `bus_unique_id` is a high-cardinality categorical
    (target-encoded or hashed). Shares information across buses with sparse
    history; rescues the 224-271 buses currently skipped for insufficient
-   training data.
+   training data. 
 
 ---
 
